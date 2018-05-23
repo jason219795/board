@@ -10,7 +10,7 @@
 <li>訪客請先<a href="#">註冊</a></li>
 <li>已註冊可直接登入</li>
 
-<form action="suck.php" method="post">
+<form action="login.php" method="post">
 <li>帳號:
 <input type="text" name="userid"></li>
 <li>密碼:
