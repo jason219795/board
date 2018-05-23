@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -60,8 +60,8 @@ article {
   
 <nav>
   <ul>
-    <li><a href="#">登入</a></li>
-    <li><a href="#">註冊</a></li>
+    <li><a href="out.php" target="iframe_a">登入</a></li>
+    <li><a href="signup.php" target="iframe_a">註冊</a></li>
     <li><a href="#">貼文</a></li>
 	<br><br><br>
 	<li><a href="back.php" target="iframe_a">出去</a> <---------------------</li>
